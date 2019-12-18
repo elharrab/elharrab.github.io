@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Example Site settings
 
 #google_analytics: UA-NNNNNNNN-N
@@ -15,3 +16,6 @@ style: dark # dark (default) or light
 
 plugins:
   - jekyll-seo-tag
+=======
+theme: jekyll-theme-slate
+>>>>>>> 759ab6453bda9d1d7e4286ef691477be0e85f23c
