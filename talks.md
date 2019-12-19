@@ -14,6 +14,6 @@ permalink: /talks
 
 <h2>[2019]</h2>
 <ul>
-  <li>"Machine Learning in a Nutshell" – Séminaire Agilité et technologies du numérique de la Chaire Amélioration Continue 4.0 de MINES ParisTech 2019, Paris.</li>
+  <li>"Machine Learning in a Nutshell", Séminaire agilité et technologies du numérique de la Chaire Amélioration Continue 4.0 de MINES ParisTech 2019, Paris.</li>
   <li>"Decentralized Energy Management of Micro Grids: When Optimization Meets Machine Learning", R&D Management Conference 2019, Paris.</li>
 </ul>
